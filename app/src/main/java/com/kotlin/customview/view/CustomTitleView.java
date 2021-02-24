@@ -10,6 +10,9 @@ import android.widget.TextView;
 
 import com.kotlin.customview.R;
 
+/**
+ * 组合控件 ：将系统原有的控件进行组合，构成一个新的控件
+ */
 public class CustomTitleView extends FrameLayout implements View.OnClickListener {
     private View.OnClickListener mLeftOnClickListener;
     private Button mBackBtn;
