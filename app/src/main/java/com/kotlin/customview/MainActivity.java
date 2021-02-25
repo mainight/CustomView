@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //                Toast.makeText(MainActivity.this, "click", Toast.LENGTH_SHORT).show();
 //            }
 //        });
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.histogtam_view);
 
     }
 }

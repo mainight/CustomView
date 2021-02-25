@@ -20,4 +20,5 @@
         android:text="@string/Title"
         android:textColor="@android:color/white"
         android:textSize="20sp"/>
+
 </RelativeLayout>
